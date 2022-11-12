@@ -1,0 +1,31 @@
+[{
+    "menuId": 1,
+    "menuName": "Biryani",
+    "menuPrice": 120.00,
+    "menuDescr": "Rice cooked with vegetables"
+},
+{
+    "menuId": 2,
+    "menuName": "Dal Tadka",
+    "menuPrice": 70.00,
+    "menuDescr": "Dal with spices"
+},
+{
+    "menuId": 3,
+    "menuName": "Mix veg",
+    "menuPrice": 90.00,
+    "menuDescr": "Mix vegetables"
+},
+{
+    "menuId": 4,
+    "menuName": "Gajar Halwa",
+    "menuPrice": 99.90,
+    "menuDescr": "Sweet dish wortel"
+},
+{
+    "menuId": 5,
+    "menuName": "Cheela",
+    "menuPrice": 12.50,
+    "menuDescr": "Roti of rice flour"
+}
+]
